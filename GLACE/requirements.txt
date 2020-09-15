@@ -1,0 +1,7 @@
+networkx==2.4
+numpy
+scikit-learn
+tensorboard==2.1.1
+tensorflow-estimator==2.1.0
+tensorflow-gpu==2.1.0
+

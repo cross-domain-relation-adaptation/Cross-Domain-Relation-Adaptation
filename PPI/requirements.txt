@@ -1,0 +1,8 @@
+scikit-learn
+h5py
+numpy
+pytorch-lightning==0.8.5
+torch
+transformers
+tape-proteins==0.4
+
